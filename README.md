@@ -1,2 +1,3 @@
-# tc-universities
-A repo to collect and display universities who offer tc courses
+# 已开设技术传播课程的高校
+
+记录和收集已经开设技术写作技术传播课程的高校，并在地图上可视化显示。
