@@ -1,32 +1,29 @@
-// 导入你的 logo 图片
-import brandLogo from '../img/pku-logo.png';
-import githubLogo from '../img/github-mark-white.png';
+import '../css/navbar.css';
+import brandLogo from '../img/pku-logo-red.png';
+import githubLogo from '../img/github-mark.png';
 import { pkuRed, bannerTextColor } from '../styles/color.js'
 
-const navStyle = {
-  width: '100%',
-  display: 'flex',
-  justifyContent: 'space-between',
-  alignItems: 'center',
-  padding: '10px',
-  height: '60px',
-  backgroundColor: pkuRed,
-  zIndex: '1',
-};
-
-const imgStyle = {
-  height: '30px',
-};
-
 const NavBar = () => {
+  const navStyle = {
+    backgroundColor: "white",
+  };
+  const PkuLogoStyle = {
+    height: '45px',
+  }
+  const ghLogoStyle = {
+    height: '30px',
+  };
+
   return (
     <nav style={navStyle}>
-      <a href="#">
-        <img src={brandLogo} style={imgStyle} alt="PKU Logo" />
-      </a>
-      <a href="https://github.com/galty687/tc-universities">
-        <img src={githubLogo} style={imgStyle} alt="Github Logo" />
-      </a>
+      <div className="nav_wrapper">
+        <a href="#">
+          <img src={brandLogo} style={PkuLogoStyle} alt="PKU Logo" />
+        </a>
+        <a href="https://github.com/galty687/tc-universities">
+          <img src={githubLogo} style={ghLogoStyle} alt="Github Logo" />
+        </a>
+      </div>
     </nav>
   );
 };

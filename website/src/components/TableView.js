@@ -61,7 +61,8 @@ function TableView(props) {
   const city = props.city;
 
   const tableStyle = {
-    maxWidth: "800px",
+    // maxWidth: "1200px",
+    width: "100%",
   }
 
   return (

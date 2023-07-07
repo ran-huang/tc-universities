@@ -1,6 +1,8 @@
+table {
+  background-color: rgba(255, 255, 255, 0.8);
+}
 tr {
   border-bottom: 1px solid #ddd;
-  background-color: rgba(255, 255, 255, 0.8);
   vertical-align: top;
 }
 
@@ -9,33 +11,33 @@ th, td {
 }
 
 td.university {
-  width: 6em;
+  min-width: 5em;
 }
 
 td.school {
-  width: 9em;
+  min-width: 8em;
 }
 
 td.course {
-  width: 10em;
+  min-width: 8em;
 }
 
 td.lecturer {
-  width: 7em;
+  min-width: 8em;
 }
 
 td.audience {
-  width: 6em;
+  min-width: 6em;
 }
 
 td.startYear {
-  width: 6em;
+  min-width: 5em;
 }
 
 td.courseURL {
-  width: 7em;
+  min-width: 5em;
 }
 
 td.note {
-  width: 5em;
+  min-width: 5em;
 }
