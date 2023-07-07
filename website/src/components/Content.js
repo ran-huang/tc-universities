@@ -1,5 +1,6 @@
 import React from "react";
-import TableView from "./TableView";
+import TableView from "./TableView.js";
+import Map from "./Map.js";
 import data from "../data.json";
 import boyata from "../img/pku-boyata.png";
 
@@ -56,11 +57,13 @@ function SectionSplit() {
 
 export default function Content() {
   const contentStyle = {
+    marginTop: "20px",
     background: `url(${boyata}) right bottom no-repeat`,
-    backgroundSize: "30% auto", // 重置 backgroundSize 以让图片沿纵轴正确重复
+    backgroundSize: "20% auto"
   }
   return (
     <div style={contentStyle}>
+      <Map />
       <CitySections />
     </div>
   );
