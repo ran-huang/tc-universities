@@ -1,0 +1,82 @@
+{
+    "北京": [
+        {
+            "university": "北京大学",
+            "school": "软件与微电子学院",
+            "course": "技术文档写作",
+            "lecturer": "高志军",
+            "audience": "CAT 研究生",
+            "startYear": "2010",
+            "courseURL": "",
+            "note": ""
+        },
+        {
+            "university": "北京大学",
+            "school": "软件与微电子学院",
+            "course": "技术传播方法",
+            "lecturer": "高志军",
+            "audience": "CAT 研究生",
+            "startYear": "2017",
+            "courseURL": "",
+            "note": ""
+        }
+    ],
+    "天津": [
+        {
+            "university": "南开大学",
+            "school": "外国语学院",
+            "course": "技术写作",
+            "lecturer": "徐立新",
+            "audience": "MTI 研究生",
+            "startYear": "2013",
+            "courseURL": "",
+            "note": ""
+        }
+    ],
+    "上海": [
+        {
+            "university": "同济大学",
+            "school": "外国语学院",
+            "course": "",
+            "lecturer": "李梅",
+            "audience": "MTI 研究生",
+            "startYear": "",
+            "courseURL": "",
+            "note": ""
+        },
+        {
+            "university": "上海健康医学院",
+            "school": "外语教学部",
+            "course": "医学国际人才与技术传播",
+            "lecturer": "阮俊斌",
+            "audience": "医学大学本科",
+            "startYear": "2019.10",
+            "courseURL": "",
+            "note": ""
+        }
+    ],
+    "重庆": [
+        {
+            "university": "重庆邮电大学",
+            "school": "外国语学院",
+            "course": "多媒体技术与应用",
+            "lecturer": "杨羚箐",
+            "audience": "本科生",
+            "startYear": "2021",
+            "courseURL": "",
+            "note": ""
+        }
+    ],
+    "江苏": [
+        {
+            "university": "东南大学",
+            "school": "外国语学院",
+            "course": "Technical Communication: Reading, Writing and Translation",
+            "lecturer": "高建",
+            "audience": "本科生（大三）/研究生",
+            "startYear": "2021",
+            "courseURL": "",
+            "note": "与德州理工合开"
+        }
+    ]
+}
