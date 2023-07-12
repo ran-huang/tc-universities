@@ -37,8 +37,7 @@ jobs:
       - name: Build
         run: |
           cd website
-          echo "CI=false" >> $GITHUB_ENV
-          npm ci && npm run build
+          npm ci && CI=false npm run build
         env:
           PUBLIC_URL: /tc-universities
       - name: Upload artifact
