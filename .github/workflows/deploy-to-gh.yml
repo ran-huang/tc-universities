@@ -39,7 +39,7 @@ jobs:
           cd website
           npm ci && CI=false npm run build
         env:
-          PUBLIC_URL: /tc-universities
+          PUBLIC_URL: /
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
