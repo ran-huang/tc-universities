@@ -13,10 +13,20 @@
         {
             "university": "北京大学",
             "school": "软件与微电子学院",
-            "course": "技术传播方法",
+            "course": "用户体验与技术传播",
             "lecturer": "高志军",
             "audience": "CAT 研究生",
             "startYear": "2017",
+            "courseURL": "",
+            "note": ""
+        },
+        {
+            "university": "北京大学",
+            "school": "外国语学院",
+            "course": "英汉技术文档写作",
+            "lecturer": "高志军",
+            "audience": "CAT 研究生",
+            "startYear": "2021",
             "courseURL": "",
             "note": ""
         },
