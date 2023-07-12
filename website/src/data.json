@@ -19,6 +19,56 @@
             "startYear": "2017",
             "courseURL": "",
             "note": ""
+        },
+        {
+            "university": "北京大学",
+            "school": "软件与微电子学院",
+            "course": "用户体验设计与实践",
+            "lecturer": "陈妍",
+            "audience": "全院研究生",
+            "startYear": "",
+            "courseURL": "",
+            "note": "腾讯"
+        },
+        {
+            "university": "清华大学",
+            "school": "能源与动力工程系",
+            "course": "科技英语阅读与写作",
+            "lecturer": "",
+            "audience": "",
+            "startYear": "",
+            "courseURL": "",
+            "note": ""
+        },
+        {
+            "university": "对外经济贸易大学",
+            "school": "英语学院",
+            "course": "英文技术写作",
+            "lecturer": "董琳",
+            "audience": "MTI 研究生",
+            "startYear": "2020",
+            "courseURL": "",
+            "note": ""
+        },
+        {
+            "university": "首都经济贸易大学",
+            "school": "外国语学院",
+            "course": "技术写作与翻译项目管理",
+            "lecturer": "李双燕",
+            "audience": "MTI 研究生",
+            "startYear": "2016",
+            "courseURL": "",
+            "note": ""
+        },
+        {
+            "university": "北京语言文化大学",
+            "school": "高级翻译学院",
+            "course": "技术文档写作",
+            "lecturer": "张勇",
+            "audience": "MTI 研究生",
+            "startYear": "",
+            "courseURL": "",
+            "note": ""
         }
     ],
     "天津": [
@@ -45,6 +95,16 @@
             "note": ""
         },
         {
+            "university": "上海对外经贸大学",
+            "school": "外语学院",
+            "course": "MTI 英语写作",
+            "lecturer": "游晓琼",
+            "audience": "MTI 专硕",
+            "startYear": "2019",
+            "courseURL": "",
+            "note": ""
+        },
+        {
             "university": "上海健康医学院",
             "school": "外语教学部",
             "course": "医学国际人才与技术传播",
@@ -65,6 +125,136 @@
             "startYear": "2021",
             "courseURL": "",
             "note": ""
+        },
+        {
+            "university": "重庆邮电大学",
+            "school": "外国语学院",
+            "course": "写作技术与文档编辑",
+            "lecturer": "杨羚箐",
+            "audience": "本科生",
+            "startYear": "2022",
+            "courseURL": "",
+            "note": ""
+        },
+        {
+            "university": "重庆邮电大学",
+            "school": "外国语学院",
+            "course": "信息通信技术概论",
+            "lecturer": "汪乔山",
+            "audience": "本科生",
+            "startYear": "2022",
+            "courseURL": "",
+            "note": ""
+        },
+        {
+            "university": "重庆邮电大学",
+            "school": "外国语学院",
+            "course": "技术传播概论",
+            "lecturer": "何家星 杨羚箐 王怡",
+            "audience": "本科生",
+            "startYear": "2022",
+            "courseURL": "",
+            "note": ""
+        },
+        {
+            "university": "重庆邮电大学",
+            "school": "外国语学院",
+            "course": "英语技术写作",
+            "lecturer": "王怡",
+            "audience": "本科生",
+            "startYear": "2018",
+            "courseURL": "https://www.xueyinonline.com/detail/227533004",
+            "note": "省级一流本科课程"
+        },
+        {
+            "university": "重庆邮电大学",
+            "school": "外国语学院",
+            "course": "文档设计与可用性测试",
+            "lecturer": "杨羚箐 王怡",
+            "audience": "本科生",
+            "startYear": "2023",
+            "courseURL": "",
+            "note": ""
+        },
+        {
+            "university": "重庆邮电大学",
+            "school": "外国语学院",
+            "course": "技术翻译",
+            "lecturer": "张颖",
+            "audience": "本科生",
+            "startYear": "2023",
+            "courseURL": "",
+            "note": ""
+        },
+        {
+            "university": "重庆邮电大学",
+            "school": "外国语学院",
+            "course": "本地化写作与翻译",
+            "lecturer": "陈璇",
+            "audience": "本科生",
+            "startYear": "2023",
+            "courseURL": "",
+            "note": ""
+        },
+        {
+            "university": "重庆邮电大学",
+            "school": "外国语学院",
+            "course": "英文技术写作入门",
+            "lecturer": "黄潇 毕燃 夏丹妮",
+            "audience": "全校通识课",
+            "startYear": "2020",
+            "courseURL": "",
+            "note": ""
+        },
+        {
+            "university": "重庆邮电大学",
+            "school": "外国语学院",
+            "course": "技术传播",
+            "lecturer": "王怡",
+            "audience": "MTI",
+            "startYear": "2018",
+            "courseURL": "",
+            "note": ""
+        },
+        {
+            "university": "重庆邮电大学",
+            "school": "外国语学院",
+            "course": "技术写作与文档设计",
+            "lecturer": "王怡",
+            "audience": "MTI",
+            "startYear": "2019",
+            "courseURL": "",
+            "note": ""
+        },
+        {
+            "university": "重庆邮电大学",
+            "school": "外国语学院",
+            "course": "技术翻译",
+            "lecturer": "张颖",
+            "audience": "MTI",
+            "startYear": "2020",
+            "courseURL": "",
+            "note": ""
+        },
+        {
+            "university": "重庆邮电大学",
+            "school": "外国语学院",
+            "course": "英语技术写作基础",
+            "lecturer": "王怡 夏丹妮 黄潇 毕燃 张颖",
+            "audience": "研究生公共外语",
+            "startYear": "2020",
+            "courseURL": "",
+            "note": ""
+        },
+        {
+            "university": "重庆邮电大学",
+            "school": "外国语学院",
+            "course": "技术传播",
+            "lecturer": "夏丹妮 王怡",
+            "audience": "泰国留学生",
+            "startYear": "2020",
+            "courseURL": "",
+            "note": ""
         }
     ],
     "江苏": [
@@ -77,6 +267,182 @@
             "startYear": "2021",
             "courseURL": "",
             "note": "与德州理工合开"
+        },
+        {
+            "university": "东南大学",
+            "school": "",
+            "course": "Oral Skills in Technical Communication",
+            "lecturer": "俞韫烨",
+            "audience": "本科生",
+            "startYear": "",
+            "courseURL": "",
+            "note": ""
+        },
+        {
+            "university": "东南大学",
+            "school": "",
+            "course": "Usability Testing and User Experience Design",
+            "lecturer": "",
+            "audience": "",
+            "startYear": "",
+            "courseURL": "",
+            "note": ""
+        },
+        {
+            "university": "东南大学",
+            "school": "",
+            "course": "Visual Rhetoric",
+            "lecturer": "",
+            "audience": "",
+            "startYear": "",
+            "courseURL": "",
+            "note": ""
+        },
+        {
+            "university": "东南大学",
+            "school": "",
+            "course": "Tools and Editing",
+            "lecturer": "",
+            "audience": "",
+            "startYear": "",
+            "courseURL": "",
+            "note": ""
+        },
+        {
+            "university": "南京师范大学",
+            "school": "外国语学院",
+            "course": "",
+            "lecturer": "",
+            "audience": "",
+            "startYear": "",
+            "courseURL": "",
+            "note": ""
+        },
+        {
+            "university": "南京林业大学",
+            "school": "外国语学院",
+            "course": "技术传播",
+            "lecturer": "李擎",
+            "audience": "MTI研究生",
+            "startYear": "",
+            "courseURL": "",
+            "note": ""
+        },
+        {
+            "university": "南京农业大学",
+            "school": "外国语学院",
+            "course": "技术文本写作",
+            "lecturer": "钱叶萍",
+            "audience": "MTI研究生",
+            "startYear": "",
+            "courseURL": "",
+            "note": ""
+        }
+    ],
+    "浙江": [
+        {
+            "university": "浙江大学",
+            "school": "外国语学院",
+            "course": "技术写作",
+            "lecturer": "何文忠",
+            "audience": "MTI研究生",
+            "startYear": "",
+            "courseURL": "",
+            "note": ""
+        }
+    ],
+    "陕西": [
+        {
+            "university": "西安外国语大学",
+            "school": "",
+            "course": "English Technical Communication",
+            "lecturer": "吴丹",
+            "audience": "MTI 研究生",
+            "startYear": "",
+            "courseURL": "",
+            "note": ""
+        }
+    ],
+    "江西": [
+        {
+            "university": "南昌工程学院",
+            "school": "",
+            "course": "标准化文档编制",
+            "lecturer": "嵇大伟",
+            "audience": "编辑出版学专业本科生",
+            "startYear": "2012",
+            "courseURL": "",
+            "note": ""
+        }
+    ],
+    "福建": [
+        {
+            "university": "厦门理工学院",
+            "school": "外国语学院",
+            "course": "技术传播与写作",
+            "lecturer": "张鸰",
+            "audience": "本科生通选课",
+            "startYear": "2009",
+            "courseURL": "",
+            "note": ""
+        }
+    ],
+    "湖南": [
+        {
+            "university": "中南大学",
+            "school": "",
+            "course": "",
+            "lecturer": "阎勇",
+            "audience": "",
+            "startYear": "",
+            "courseURL": "",
+            "note": ""
+        }
+    ],
+    "广东": [
+        {
+            "university": "广东外语外贸大学",
+            "school": "",
+            "course": "",
+            "lecturer": "",
+            "audience": "",
+            "startYear": "",
+            "courseURL": "",
+            "note": ""
+        },
+        {
+            "university": "广东科技学院",
+            "school": "计算机学院",
+            "course": "技术写作",
+            "lecturer": "张新伟等",
+            "audience": "本科生通选课",
+            "startYear": "2019.2",
+            "courseURL": "",
+            "note": ""
+        }
+    ],
+    "广西": [
+        {
+            "university": "广西师范大学漓江学院",
+            "school": "语言文学学院",
+            "course": "技术写作",
+            "lecturer": "汪婧、谭敏",
+            "audience": "翻译专业本科生（大三）",
+            "startYear": "",
+            "courseURL": "",
+            "note": ""
+        }
+    ],
+    "云南": [
+        {
+            "university": "昆明理工大学",
+            "school": "外国语言文化学院",
+            "course": "技术写作",
+            "lecturer": "郑景婷，许炳梁",
+            "audience": "MTI研究生",
+            "startYear": "2017",
+            "courseURL": "",
+            "note": ""
         }
     ]
 }
