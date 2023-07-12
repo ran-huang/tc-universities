@@ -25,7 +25,7 @@ export default function Banner() {
         <img src={banner}></img>
         <div className="banner-text-area" style={textAreaStyle}>
           <p className="title">已开设技术传播课程的高校</p>
-          <p className="desc">Minim commodo sunt ex cillum aute exercitation laborum excepteur quis exercitation aliquip culpa reprehenderit commodo. Sint commodo sunt et mollit nisi in incididunt est ipsum.</p>
+          <p className="desc">通过问卷调查、朋友圈推荐收集的高校列表，因为覆盖面有限，如果您或贵校已经开设此类课程，但未收录，欢迎填写该<a href="http://pkutc-training.mikecrm.com/SqBlK2D">收集问卷</a>，我们会尽快更新到该列表中。</p>
         </div>
       </div>
     </div>
