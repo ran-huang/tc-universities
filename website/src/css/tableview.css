@@ -1,0 +1,43 @@
+table {
+  background-color: rgba(255, 255, 255, 0.8);
+}
+tr {
+  border-bottom: 1px solid #ddd;
+  vertical-align: top;
+}
+
+th, td {
+  font-size: 14px;
+}
+
+td.university {
+  min-width: 5em;
+}
+
+td.school {
+  min-width: 8em;
+}
+
+td.course {
+  min-width: 8em;
+}
+
+td.lecturer {
+  min-width: 8em;
+}
+
+td.audience {
+  min-width: 6em;
+}
+
+td.startYear {
+  min-width: 5em;
+}
+
+td.courseURL {
+  min-width: 5em;
+}
+
+td.note {
+  min-width: 5em;
+}

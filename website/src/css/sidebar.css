@@ -1,0 +1,4 @@
+a.active, a:hover {
+  color: #888; /* 鼠标悬浮时的颜色 */
+  text-decoration: underline; /* 鼠标悬浮时出现下划线 */
+}
