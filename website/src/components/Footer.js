@@ -27,7 +27,7 @@ const Footer = () => {
   return (
     <div style={footerStyle}>
       <img src={logo} alt="logo" style={imgStyle}/>
-      <p style={textStyle}>Copyright &copy; 2023 fugiat consectetur</p>
+      <p style={textStyle}>Copyright &copy; 2023 北京大学技术传播协会</p>
     </div>
   );
 };
