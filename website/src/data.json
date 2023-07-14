@@ -523,19 +523,39 @@
             "startYear": "2019.2",
             "courseURL": "",
             "note": ""
+        },
+        {
+            "university": "深圳技术大学",
+            "school": "质量与标准学院",
+            "course": "内容设计与技术写作",
+            "lecturer": "中国标准化协会技术传播服务委员会",
+            "audience": "本科生通选课",
+            "startYear": "2019",
+            "courseURL": "",
+            "note": ""
         }
     ],
     "广西": [
  
             {
-                "university": "桂林学院(原广西师范大学漓江学院)",
+                "university": "桂林学院",
                 "school": "人文学院",
-                "course": "技术写作(1)、技术写作(2)",
+                "course": "技术写作(1)",
                 "lecturer": "汪婧、谭敏",
                 "audience": "英语专业大三本科生",
                 "startYear": "2018",
                 "courseURL": "",
-                "note": "因独立学院转设校名变更，特此更新"
+                "note": "(原广西师范大学漓江学院)"
+            },
+            {
+                "university": "桂林学院(原广西师范大学漓江学院)",
+                "school": "人文学院",
+                "course": "技术写作(2)",
+                "lecturer": "汪婧、谭敏",
+                "audience": "英语专业大三本科生",
+                "startYear": "2018",
+                "courseURL": "",
+                "note": "(原广西师范大学漓江学院)"
             }
     ],
     "云南": [
