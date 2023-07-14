@@ -38,6 +38,11 @@
   font-size: 1em;
 }
 
+a {
+  text-decoration: underline;
+}
+
+
 @media screen and (max-width: 970px) {
   .banner .banner_wrapper .banner-text-area {
     width: 65%;
