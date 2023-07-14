@@ -419,7 +419,18 @@
             "startYear": "",
             "courseURL": "",
             "note": ""
+        },
+        {
+            "university": "河海大学",
+            "school": "外国语学院",
+            "course": "CAT 技术写作",
+            "lecturer": "刘劲松 杨颖波等",
+            "audience": "英专大三及MTI",
+            "startYear": "2018至今",
+            "courseURL": "",
+            "note": ""
         }
+        
     ],
     "浙江": [
         {
