@@ -95,15 +95,65 @@
     ],
     "上海": [
         {
+            "university": "复旦大学",
+            "school": "外文学院",
+            "course": "英语技术写作与传播",
+            "lecturer": "谢敏 等",
+            "audience": "MTI口笔译学生",
+            "startYear": "2017",
+            "courseURL": "",
+            "note": "2020年，陶友兰，谢敏，李晓黎，周全，程少武联合出版该课程教材《英语技术写作精要》"
+        },
+        {
             "university": "同济大学",
             "school": "外国语学院",
-            "course": "",
-            "lecturer": "李梅",
-            "audience": "MTI 研究生",
-            "startYear": "",
-            "courseURL": "",
+            "course": "英语技术写作",
+            "lecturer": "李梅 毛微 钱利华",
+            "audience": "英语专业本科生",
+            "startYear": "自2014年起",
+            "courseURL": "无",
             "note": ""
         },
+        {
+            "university": "同济大学",
+            "school": "外国语学院",
+            "course": "技术写作入门",
+            "lecturer": "李梅 毛微 钱利华",
+            "audience": "英语专业本科生",
+            "startYear": "自2014年起",
+            "courseURL": "无",
+            "note": ""
+        },
+        {
+            "university": "同济大学",
+            "school": "外国语学院",
+            "course": "英语技术写作与传播",
+            "lecturer": "李梅 毛微 钱利华",
+            "audience": "英语专业本科生",
+            "startYear": "自2014年起",
+            "courseURL": "无",
+            "note": ""
+        },
+        {
+            "university": "同济大学",
+            "school": "外国语学院",
+            "course": "技术传播与语言设计",
+            "lecturer": "李梅 毛微 钱利华",
+            "audience": "非英语专业本科通识课",
+            "startYear": "自2014年起",
+            "courseURL": "无",
+            "note": ""
+        },
+        {
+            "university": "同济大学",
+            "school": "外国语学院",
+            "course": "智能化与脚本写作",
+            "lecturer": "李梅 毛微 钱利华",
+            "audience": "MTI研究生",
+            "startYear": "自2014年起",
+            "courseURL": "无",
+            "note": ""
+        },    
         {
             "university": "上海对外经贸大学",
             "school": "外语学院",
@@ -134,7 +184,18 @@
             "startYear": "2020",
             "courseURL": "",
             "note": ""
+        },
+        {
+            "university": "上外贤达人文经济学院",
+            "school": "外国语学院",
+            "course": "技术写作",
+            "lecturer": "李梅 郑媛媛 贾雪莱 姚柯 邱玉情",
+            "audience": "英语专业本科生",
+            "startYear": "2022-2023（2）",
+            "courseURL": "无",
+            "note": ""
         }
+
     ],
     "重庆": [
         {
@@ -382,7 +443,18 @@
             "startYear": "",
             "courseURL": "",
             "note": ""
+        },
+        {
+            "university": "西安外国语大学",
+            "school": "高级翻译学院",
+            "course": "技术写作与编辑",
+            "lecturer": "李睿",
+            "audience": "翻译专业本科二年级学生",
+            "startYear": "",
+            "courseURL": "",
+            "note": ""
         }
+    
     ],
     "江西": [
         {
@@ -443,16 +515,17 @@
         }
     ],
     "广西": [
-        {
-            "university": "广西师范大学漓江学院",
-            "school": "语言文学学院",
-            "course": "技术写作",
-            "lecturer": "汪婧、谭敏",
-            "audience": "翻译专业本科生（大三）",
-            "startYear": "",
-            "courseURL": "",
-            "note": ""
-        }
+ 
+            {
+                "university": "桂林学院(原广西师范大学漓江学院)",
+                "school": "人文学院",
+                "course": "技术写作(1)、技术写作(2)",
+                "lecturer": "汪婧、谭敏",
+                "audience": "英语专业大三本科生",
+                "startYear": "2018",
+                "courseURL": "",
+                "note": "因独立学院转设校名变更，特此更新"
+            }
     ],
     "云南": [
         {
